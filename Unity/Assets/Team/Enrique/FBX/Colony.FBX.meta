@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: ed9d545f6b6bfb942bf17f2800a91e1c
+timeCreated: 1457981251
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BeautySaloon
+    100002: //RootNode
+    100004: Ground
+    100006: HouseA001
+    100008: HouseA002
+    100010: HouseA003
+    100012: HouseA004
+    100014: HouseA005
+    100016: HouseA006
+    100018: HouseA007
+    100020: HouseA008
+    100022: HouseB001
+    100024: HouseB003
+    100026: HouseC001
+    100028: HouseC002
+    100030: Mountains
+    100032: Plane004
+    100034: Research Lab
+    100036: SpaceJunkBank
+    100038: Supplies launcher module
+    100040: Vital Cahmber
+    100042: WareHouse
+    100044: WaterStore
+    400000: BeautySaloon
+    400002: //RootNode
+    400004: Ground
+    400006: HouseA001
+    400008: HouseA002
+    400010: HouseA003
+    400012: HouseA004
+    400014: HouseA005
+    400016: HouseA006
+    400018: HouseA007
+    400020: HouseA008
+    400022: HouseB001
+    400024: HouseB003
+    400026: HouseC001
+    400028: HouseC002
+    400030: Mountains
+    400032: Plane004
+    400034: Research Lab
+    400036: SpaceJunkBank
+    400038: Supplies launcher module
+    400040: Vital Cahmber
+    400042: WareHouse
+    400044: WaterStore
+    2300000: BeautySaloon
+    2300002: Ground
+    2300004: HouseA001
+    2300006: HouseA002
+    2300008: HouseA003
+    2300010: HouseA004
+    2300012: HouseA005
+    2300014: HouseA006
+    2300016: HouseA007
+    2300018: HouseA008
+    2300020: HouseB001
+    2300022: HouseB003
+    2300024: HouseC001
+    2300026: HouseC002
+    2300028: Mountains
+    2300030: Plane004
+    2300032: Research Lab
+    2300034: SpaceJunkBank
+    2300036: Supplies launcher module
+    2300038: Vital Cahmber
+    2300040: WareHouse
+    2300042: WaterStore
+    3300000: BeautySaloon
+    3300002: Ground
+    3300004: HouseA001
+    3300006: HouseA002
+    3300008: HouseA003
+    3300010: HouseA004
+    3300012: HouseA005
+    3300014: HouseA006
+    3300016: HouseA007
+    3300018: HouseA008
+    3300020: HouseB001
+    3300022: HouseB003
+    3300024: HouseC001
+    3300026: HouseC002
+    3300028: Mountains
+    3300030: Plane004
+    3300032: Research Lab
+    3300034: SpaceJunkBank
+    3300036: Supplies launcher module
+    3300038: Vital Cahmber
+    3300040: WareHouse
+    3300042: WaterStore
+    4300000: SpaceJunkBank
+    4300002: Ground
+    4300004: WareHouse
+    4300006: HouseA001
+    4300008: HouseA002
+    4300010: HouseC001
+    4300012: HouseA003
+    4300014: HouseA004
+    4300016: HouseB001
+    4300018: HouseB003
+    4300020: HouseA005
+    4300022: HouseA006
+    4300024: HouseC002
+    4300026: BeautySaloon
+    4300028: WaterStore
+    4300030: Plane004
+    4300032: Vital Cahmber
+    4300034: Supplies launcher module
+    4300036: Research Lab
+    4300038: HouseA007
+    4300040: HouseA008
+    4300042: Mountains
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
